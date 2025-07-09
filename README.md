@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a Car-Pooling Application.<br> I’m looking to collaborate on any beginner to intermediate level project.<br> I’m looking for help with learning javascript.<br> I’m currently learning HTML and CSS.<br>
+I’m currently working on a Car-Pooling Application.<br> I’m looking to collaborate on any intermediate to advanced level project.<br> I’m looking for help with learning javascript.<br> I’m currently learning HTML and CSS.<br>
 
 
 ## 🌐 Socials:
