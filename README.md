@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m currently working on my own LLM 'Vaani'.<br> I’m looking to collaborate on any intermediate to advanced level project.<br> I’m looking for help with learning javascript.<br> I’m currently learning HTML and CSS.<br>
-
+I’m currently working on building a Data Scraper.<br> I’m looking to collaborate on any intermediate to advanced level project.<br> I’m open for any internship oppurtunities.<br> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ash.ray.hoon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnshulBari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshulbari1@gmail.com) 
