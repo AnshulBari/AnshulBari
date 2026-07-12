@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:99F6E4&height=180&section=header&text=Anshul%20Bari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:93C5FD&height=180&section=header&text=Anshul%20Bari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" alt="Header" />
 </p>
 
 <h1 align="center">Hi, I'm Anshul Bari (@AnshulBari)</h1>
