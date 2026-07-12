@@ -174,7 +174,7 @@ I’m keen to work on:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:99F6E4,50:14B8A6,100:0F766E&height=110&section=footer" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:93C5FD&height=110&section=footer" alt="Footer wave" />
 </p>
 
 <!---
