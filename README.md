@@ -18,6 +18,9 @@
   <a href="https://drive.google.com/file/d/1UIeShi_Au7sjsrt_WYTUrcBFpbwy5-QG/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0F766E?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
+  <a href="https://www.anshulbari.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0F766E?style=flat-square&logo=googledrive&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
