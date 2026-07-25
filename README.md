@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Resume-0F766E?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.anshulbari.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-0F766E?style=flat-square&logo=googledrive&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-121013?style=flat-square&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
