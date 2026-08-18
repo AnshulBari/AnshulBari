@@ -27,10 +27,12 @@
 
 ## About Me
 
-- Exploring **algorithmic trading**, **market intelligence**, and practical product workflows built for speed and reliability.
-- Building **Generative AI** and **machine learning** applications, with a focus on voice, vision, and developer-focused tools.
-- Comfortable across **full-stack engineering**, **automation**, **backend integrations**, and taking ideas from prototype to shipped product.
-- Interested in real-world problems where **AI**, **data**, and thoughtful product engineering come together.
+* Exploring **cloud computing, AWS, and distributed systems**, with a focus on building reliable and scalable infrastructure.
+* Building **Generative AI and machine learning applications**, while experimenting with practical AI-powered tools and workflows.
+* Comfortable across **full-stack development, backend engineering, automation, and DevOps**, turning ideas into working products.
+* Interested in **real-world problems** where cloud, AI, data, and thoughtful engineering come together.
+* Currently pursuing **B.Tech in Computer Science (Cloud Computing & Automation)** and continuously learning by building, experimenting, and shipping.
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshulBari&bg_color=F8FAFC&color=0F766E&line=14B8A6&point=134E4A&area=true&hide_border=true" alt="Activity graph" />
