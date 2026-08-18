@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Anshul Bari (@AnshulBari)</h1>
 
 <p align="center">
-  <b>AI | CLOUD | FINANCE | FULL-STACK | ML | AUTOMATION</b>
+  <b>AI | CLOUD | FULL-STACK | ML | AUTOMATION</b>
 </p>
 
 <p align="center">
